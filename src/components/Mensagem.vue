@@ -19,7 +19,7 @@ export default {
   background: #ffffff;
   margin: 5px 100px;
   padding: 5px 10px;
-  border-radius: 5px;
+  border-radius: 8px;
   width: fit-content;
 }
 
