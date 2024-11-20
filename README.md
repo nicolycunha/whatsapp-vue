@@ -6,7 +6,7 @@
     Site de envio de mensagens instantâneo.
        <br />
     <br />
-    <a href="https://whatsapp-vue.netlify.app/">Projeto</a>
+    <a href="https://voluble-axolotl-281701.netlify.app/">Projeto</a>
     ·
     <a href="https://www.linkedin.com/in/nicoly-oliveira-da-cunha/">Contato</a>
   </p>
